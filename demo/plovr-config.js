@@ -14,7 +14,7 @@
   ],
   "custom-passes": [
     {
-      "class-name": "info.persistent.react.jscomp.ReactCompilerPass",
+      "class-name": "com.google.javascript.jscomp.ReactCompilerPass",
       "when": "BEFORE_CHECKS"
     }
   ]
